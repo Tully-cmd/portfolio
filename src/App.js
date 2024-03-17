@@ -17,7 +17,7 @@ class App extends Component {
         <div>
         <h2>Port Scanner</h2>
            <p>Technologies used: Kotlin</p>
-           <p>Skills used: Sockets, Multi-threaded threadpool</p>
+           <p>Skills used: Sockets, Multi-threaded threadpool.</p>
            <a href="https://github.com/Tully-cmd/threadExperiment-1">Port Scanner Repository</a>
         </div>
 
@@ -33,8 +33,15 @@ class App extends Component {
         </div>
 
         <div>
+        <h2>List module, Doubly-ended-queue</h2>
+           <p>Technologies used: C, Valgrind</p>
+           <p>Skills used: Excellent testing and creating shared library from project.</p>
+           <a href="https://github.com/Tully-cmd/cs452hw1">DEQ Repository</a>
+        </div>
+
+        <div>
         <h2>Software Development in C CS253 Course work</h2>
-           <p>Technologies used: C, Unix, Bash</p>
+           <p>Technologies used: C, Unix, Bash.</p>
            <a href="https://github.com/Tully-cmd/CS253CourseWork">Repositories</a>
         </div>
         
