@@ -35,7 +35,7 @@ class App extends Component {
         <div>
         <h2>List module, Doubly-ended-queue</h2>
            <p>Technologies used: C, Valgrind</p>
-           <p>Skills used: Excellent testing and creating shared library from project.</p>
+           <p>Skills used: Excellent test coverage. Created shared library from project.</p>
            <a href="https://github.com/Tully-cmd/cs452hw1">DEQ Repository</a>
         </div>
 
