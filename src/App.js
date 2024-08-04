@@ -13,14 +13,22 @@ class App extends Component {
         </div>
 
         <div>
+        <h2>Distributed Systems Course Work</h2>
+           <p>Individual Assignments: Ping Pong Protocol, Time Server, AWS, and Docker</p>
+           <a href="https://github.com/cs455-555-s24/individual-hw-exams-Tully-cmd">Repository</a>
+           <br></br>
+           <p>Team Projects: Chat Server, Identity Server Phases I & II</p>
+           <a href="https://github.com/cs455-555-s24/team-cs455-555-team-10">Repository</a>
+        </div>
 
         <div>
         <h2>Port Scanner</h2>
            <p>Technologies used: Kotlin</p>
-           <p>Skills used: Sockets, Multi-threaded threadpool.</p>
+           <p>Skills used: Sockets, Multi-threaded threadpool</p>
            <a href="https://github.com/Tully-cmd/threadExperiment-1">Port Scanner Repository</a>
         </div>
-
+        
+        <div>
         <h2>Melville's Marginalia</h2>
            {/* <p className="App-intro">
              To get started, edit <code>src/App.js</code> and save to reload.
@@ -33,15 +41,8 @@ class App extends Component {
         </div>
 
         <div>
-        <h2>List module, Doubly-ended-queue</h2>
-           <p>Technologies used: C, Valgrind</p>
-           <p>Skills used: Excellent test coverage. Created shared library from project.</p>
-           <a href="https://github.com/Tully-cmd/cs452hw1">DEQ Repository</a>
-        </div>
-
-        <div>
         <h2>Software Development in C CS253 Course work</h2>
-           <p>Technologies used: C, Unix, Bash.</p>
+           <p>Technologies used: C, Unix, Bash</p>
            <a href="https://github.com/Tully-cmd/CS253CourseWork">Repositories</a>
         </div>
         
